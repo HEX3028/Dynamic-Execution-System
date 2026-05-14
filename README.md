@@ -27,3 +27,13 @@ Because the executors that dont allow it are cash-grabs and are HOT ass.
 ## The UI
 ### What is the UI most likely gonna be?
 The UI is going to be similar to Lorekeeperzinnia's Dex Explorer script.
+# About requiring.
+## Can you use it with the executor?
+Yes. And no.  
+
+The executor CAN **require**
+
+ module scripts that is already in the game.  
+but it cant **require** ID's due to the new update.  
+To fix this i added a scripts tab that already has the modules loaded.
+Have fun :)
