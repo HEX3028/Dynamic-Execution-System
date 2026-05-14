@@ -15,9 +15,10 @@ DES is planned to be 10-20$ at launch.
 ### Is DES avaliable yet?
 Currently no, DES is still under progress.
 ### What are the rules?
-Because we love our customers we decided for only 2 rules.  
+Because we love our customers we decided for only 3 rules.  
 **NO RACISM OR RACIST SCRIPTS**  
 **NO ANTIFURRY OR HATE SCRIPTS**  
+**No using other serversides (Like voronide.)** 
 ### Is Sensation Hub Allowed?
 Yes, It absolutely is!  
 Sensation Hub will be completely allowed!  
